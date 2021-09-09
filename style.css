@@ -4,7 +4,7 @@
     font-family: sans-serif;
 }
 .banner{
-    width:100%;
+    width:150%;
     height: 100vh;
     background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url("https://media.istockphoto.com/vectors/best-friends-forever-trend-calligraphy-vector-id545463600");
     background-position: center;
