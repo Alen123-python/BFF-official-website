@@ -14,7 +14,7 @@
     width:100%;
     position: absolute;
     top: 200;
-    transform: translateY(-100%);
+    transform: translateY(-50%);
     color: #fff;
 }
 .content h1{
